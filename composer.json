@@ -1,0 +1,15 @@
+{
+    "name": "hendy/facebook-php",
+    "description": "Login with Facebook",
+    "type": "sample-project",
+    "require": {
+        "facebook/graph-sdk": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hendy Yanuar",
+            "email": "hendy.yanuar@gmail.com"
+        }
+    ]
+}
